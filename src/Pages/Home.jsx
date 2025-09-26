@@ -41,7 +41,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="/src/assets/stop_trend_mobile.png"
+            src="./public/stop_trend_mobile.png"
             alt=""
           />
         </div>
@@ -50,7 +50,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="/src/assets/traffic_stops_by_season.png"
+            src="./public/traffic_stops_by_season.png"
             alt=""
           />
         </div>
@@ -59,7 +59,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="/src/assets/traffic_stops_time_of_day.png"
+            src="./public/traffic_stops_time_of_day.png"
             alt=""
           />
         </div>
@@ -68,7 +68,7 @@ const Home = () => {
 
           <div className="chart-container">
             <img
-              src="/src/assets/gender_doughnut_design.png"
+              src="./public/gender_doughnut_design.png"
               alt="Traffic Stops by Gender"
               className="doughnut"
             />
@@ -100,7 +100,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="/src/assets/age_group_stops_mobile.png"
+            src="./public/age_group_stops_mobile.png"
             alt=""
           />
         </div>
@@ -109,7 +109,7 @@ const Home = () => {
 
           <div className="chart-container">
             <img
-              src="/src/assets/race_doughnut_design.png"
+              src="./public/race_doughnut_design.png"
               alt="Traffic Stops by Race"
               className="doughnut"
             />
@@ -159,7 +159,7 @@ const Home = () => {
           <img
             width="100%"
             height="280vh"
-            src="/src/assets/violations_bar_mobile.png"
+            src="./public/violations_bar_mobile.png"
             alt=""
           />
         </div>
@@ -169,7 +169,7 @@ const Home = () => {
           <div className="chart-container flex flex-col items-center">
             {/* Doughnut PNG */}
             <img
-              src="/src/assets/drug_stops_doughnut.png"
+              src="./public/drug_stops_doughnut.png"
               alt="Drug Stops Doughnut"
               className="doughnut w-full max-w-[300px] h-auto"
             />
@@ -220,7 +220,7 @@ const Home = () => {
           <img
             width="100%"
             height="280vh"
-            src="/src/assets/stop_outcome_bar_mobile.png"
+            src="./public/stop_outcome_bar_mobile.png"
             alt=""
           />
         </div>
