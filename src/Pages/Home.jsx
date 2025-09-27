@@ -226,7 +226,7 @@ const Home = () => {
                 <span
                   className="color-box w-4 h-4 rounded-sm"
                   style={{ backgroundColor: "#FFA500" }}></span>
-                Other: 0.2%
+                Other: 0.1%
               </div>
             </div>
           </div>
@@ -271,13 +271,13 @@ const Home = () => {
               <span
                 className="color-box"
                 style={{ backgroundColor: "#F7CAC9" }}></span>
-              Asian: 1.5%
+              Asian: 1.4%
             </div>
             <div className="label">
               <span
                 className="color-box"
                 style={{ backgroundColor: "#92A8D1" }}></span>
-              Other: 0.04%
+              Other: 0.1%
             </div>
           </div>
         </div>
