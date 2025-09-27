@@ -169,7 +169,7 @@ const Home = () => {
           <div className="chart-container flex flex-col items-center">
             {/* Doughnut PNG */}
             <img
-              src="./public/drug_stops_doughnut.png"
+              src="drug_stops_doughnut.png"
               alt="Drug Stops Doughnut"
               className="doughnut w-full max-w-[300px] h-auto"
             />
