@@ -41,7 +41,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="./public/stop_trend_mobile.png"
+            src="stop_trend_mobile.png"
             alt=""
           />
         </div>
@@ -50,7 +50,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="./public/traffic_stops_by_season.png"
+            src="traffic_stops_by_season.png"
             alt=""
           />
         </div>
@@ -59,7 +59,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="./public/traffic_stops_time_of_day.png"
+            src="traffic_stops_time_of_day.png"
             alt=""
           />
         </div>
@@ -68,7 +68,7 @@ const Home = () => {
 
           <div className="chart-container">
             <img
-              src="./public/gender_doughnut_design.png"
+              src="gender_doughnut_design.png"
               alt="Traffic Stops by Gender"
               className="doughnut"
             />
