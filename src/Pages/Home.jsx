@@ -100,7 +100,7 @@ const Home = () => {
           <img
             width="100%"
             height="220vh"
-            src="./public/age_group_stops_mobile.png"
+            src="age_group_stops_mobile.png"
             alt=""
           />
         </div>
@@ -109,7 +109,7 @@ const Home = () => {
 
           <div className="chart-container">
             <img
-              src="./public/race_doughnut_design.png"
+              src="race_doughnut_design.png"
               alt="Traffic Stops by Race"
               className="doughnut"
             />
@@ -159,7 +159,7 @@ const Home = () => {
           <img
             width="100%"
             height="280vh"
-            src="./public/violations_bar_mobile.png"
+            src="violations_bar_mobile.png"
             alt=""
           />
         </div>
@@ -216,11 +216,11 @@ const Home = () => {
           </div>
         </div>
         <div className="card">
-          <h2>Violations</h2>
+          <h2>Violations Outcome</h2>
           <img
             width="100%"
             height="280vh"
-            src="./public/stop_outcome_bar_mobile.png"
+            src="stop_outcome_bar_mobile.png"
             alt=""
           />
         </div>
