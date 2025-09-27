@@ -81,6 +81,44 @@ html {
   gap: 30px;
   padding: 40px 10px;
 }
+.card-row {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.simple-card {
+  border-radius: 8px;
+  padding: 20px;
+  width: 110px;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+}
+
+.simple-card h3 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.simple-card .value {
+  margin-top: 5px;
+  font-size: 24px;
+}
+
+/* Red shades based on stop count */
+.deep-red {
+  background-color: #cc0000; /* deepest red for highest */
+}
+
+.medium-red {
+  background-color: #ff4d4d; /* medium red */
+}
+
+.light-red {
+  background-color: #ff9999; /* lightest red */
+}
 
 .card {
   background: #f0f2f5;
