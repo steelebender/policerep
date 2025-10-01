@@ -39,8 +39,6 @@ const Home = () => {
         <div className="card">
           <h2>Traffic Stops Trend</h2>
           <img
-            width="100%"
-            height="220vh"
             src="stop_trend_mobile.png"
             alt=""
           />
@@ -65,8 +63,6 @@ const Home = () => {
         <div className="card">
           <h2>Trends by seasons</h2>
           <img
-            width="100%"
-            height="220vh"
             src="traffic_stops_by_season.png"
             alt=""
           />
@@ -74,8 +70,6 @@ const Home = () => {
         <div className="card">
           <h2>Trends by Time of the Day</h2>
           <img
-            width="100%"
-            height="220vh"
             src="traffic_stops_time_of_day.png"
             alt=""
           />
@@ -114,8 +108,6 @@ const Home = () => {
         <div className="card">
           <h2>Trends by Age Group</h2>
           <img
-            width="100%"
-            height="220vh"
             src="age_group_trend.png"
             alt=""
           />
@@ -173,8 +165,6 @@ const Home = () => {
         <div className="card">
           <h2>Violations</h2>
           <img
-            width="100%"
-            height="280vh"
             src="violation_bar_descending.png"
             alt=""
           />
@@ -234,8 +224,6 @@ const Home = () => {
         <div className="card">
           <h2>Violations Outcome</h2>
           <img
-            width="100%"
-            height="280vh"
             src="stop_outcome_bar_descending.png"
             alt=""
           />
@@ -243,8 +231,6 @@ const Home = () => {
         <div className="card">
           <h2>Arrests by Race</h2>
           <img
-            width="90%"
-            height="280vh"
             src="arrest_race_doughnut_design.png"
             alt=""
           />
